@@ -51,7 +51,7 @@ function ActualizarListaAmigos(){
 
 function SortearAmigo(){
     //Verifica si hay nombres en la lista
-    if (NombresAmigos.length<0){
+    if (NombresAmigos.length===0){
         alert("Debes agregar minimo 1 usuario para empezar a sortear");
      
     }else{
@@ -69,3 +69,4 @@ function SortearAmigo(){
 
     }
 }
+
