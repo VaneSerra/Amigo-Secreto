@@ -51,8 +51,8 @@ function ActualizarListaAmigos(){
 
 function SortearAmigo(){
     //Verifica si hay nombres en la lista
-    if (NombresAmigos.length===0){
-        alert("Debes agregar minimo 1 usuario para empezar a sortear");
+    if (NombresAmigos.length<2){
+        alert("Debes agregar minimo 2 usuarios para empezar a sortear");
      
     }else{
         //Genera un indice aleatorio y establece el nombre que corresponde a esa posicion
@@ -69,4 +69,5 @@ function SortearAmigo(){
 
     }
 }
+
 
