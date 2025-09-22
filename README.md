@@ -1,6 +1,6 @@
 🎁🎲 Amigo Secreto 🎲🎁
 
-Amigo Secreto es una aplicación ligera desarrollada en HTML, CSS y JavaScript, que permite registrar participantes en una lista y realizar un sorteo al azar para seleccionar a un ganador.
+Amigo Secreto es un programa desarrollado en HTML, CSS y JavaScript, que permite registrar participantes en una lista y realizar un sorteo al azar para seleccionar a un ganador.
 
 Este proyecto está pensado para actividades sociales y laborales como:
 
