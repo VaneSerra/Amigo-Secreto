@@ -32,7 +32,7 @@ Este proyecto está pensado para actividades sociales y laborales como:
 
 4. Presiona el botón Sortear para que la aplicación muestre al amigo secreto seleccionado.
 
-(Si quieres seguimiento adicional, abre la consola del navegador para ver la lista completa en tiempo real.)
+ (Si quieres seguimiento adicional, abre la consola del navegador para ver la lista completa en tiempo real.)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
