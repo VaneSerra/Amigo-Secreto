@@ -36,3 +36,45 @@ Este proyecto está pensado para actividades sociales y laborales como:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🧩 Funciones principales
+
+* AgregarAmigoLista()
+
+  Valida que el nombre ingresado no esté vacío.
+
+  Verifica que no se repita en la lista.
+
+  Agrega el nombre a la lista y actualiza la visualización.
+
+* ActualizarListaAmigos()
+
+ Refresca el contenido mostrado en el HTML para reflejar los amigos agregados.
+
+* SortearAmigo()
+
+ Verifica que haya mínimo 2 amigos.
+
+ Selecciona un nombre al azar como el Amigo Secreto.
+
+ Muestra el resultado en pantalla.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💡 Ejemplo de Uso
+
+  Lista de amigos: Ana, Pedro, María.
+
+  Resultado: "Tu amigo secreto es: ¡Pedro!".
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 Tecnologías utilizadas
+
+* JavaScript (lógica del sorteo).
+
+* HTML (estructura de la interfaz).
+
+* CSS (estilos opcionales).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
