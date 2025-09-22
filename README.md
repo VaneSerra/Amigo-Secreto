@@ -14,4 +14,4 @@ Este proyecto es una aplicación web sencilla en JavaScript, HTML y CSS, que per
 
 * Sorteo aleatorio para elegir el amigo secreto.
 
-* Interfaz amigable y fácil de usar.
+_____________________________________________________________________________________________________________________________________________________________
