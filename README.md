@@ -62,9 +62,9 @@ Este proyecto está pensado para actividades sociales y laborales como:
 
 💡 Ejemplo de Uso
 
-  Lista de amigos: Ana, Pedro, María.
-
-  Resultado: "Tu amigo secreto es: ¡Pedro!".
+   Lista de amigos: Ana, Pedro, María.
+ 
+   Resultado: "Tu amigo secreto es: ¡Pedro!".
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
