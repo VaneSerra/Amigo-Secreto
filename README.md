@@ -2,6 +2,7 @@
 
 Este proyecto es una aplicación web sencilla en JavaScript, HTML y CSS, que permite agregar nombres de amigos a una lista y realizar un sorteo aleatorio para seleccionar un amigo secreto. El código incluye validaciones para evitar entradas vacías, nombres repetidos y asegura que exista un mínimo de participantes antes de iniciar el sorteo.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ Características
 
