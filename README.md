@@ -48,15 +48,15 @@ Este proyecto está pensado para actividades sociales y laborales como:
 
 * ActualizarListaAmigos()
 
- Refresca el contenido mostrado en el HTML para reflejar los amigos agregados.
+  Refresca el contenido mostrado en el HTML para reflejar los amigos agregados.
 
 * SortearAmigo()
 
- Verifica que haya mínimo 2 amigos.
+  Verifica que haya mínimo 2 amigos.
 
- Selecciona un nombre al azar como el Amigo Secreto.
+  Selecciona un nombre al azar como el Amigo Secreto.
 
- Muestra el resultado en pantalla.
+  Muestra el resultado en pantalla.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
